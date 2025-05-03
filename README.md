@@ -1,3 +1,1 @@
-# Portfolio Returns Tracker
-takes into account different investment options as well as their weights in the portfolio,
-then displays a visual representation representing the cumulative returns during a specified period.
+This program tracks the performance of a portfolio by displaying a visual representation of its cumulative returns during a specified period.
